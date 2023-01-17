@@ -1,0 +1,21 @@
+table {
+    position: absolute;
+    border: 1px solid gray;
+    top: 98px;
+    left: 173px;
+
+
+}
+
+tr {
+    border: 3px solid gray;
+
+}
+
+td {
+    width: 94px;
+    height: 94px;
+    border: 1px solid black;
+    background-color: aqua  ;
+
+}
